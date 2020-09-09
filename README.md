@@ -9,6 +9,8 @@ ___
 * [Contributor Agreement](https://www.elastic.co/contributor-agreement/)
 * [Kibana Developer guide](https://www.elastic.co/guide/en/kibana/current/contributing.html)
 * [How we use git and github](https://www.elastic.co/guide/en/kibana/current/development-github.html)
+* [GitHub for Beginners](https://resources.github.com/webcasts/GitHub-for-beginners/)
+* [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 * [Outreachy](https://www.outreachy.org/)
