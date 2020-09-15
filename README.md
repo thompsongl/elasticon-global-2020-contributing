@@ -8,6 +8,7 @@ ___
 * [Elastic License](https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE.txt)
 * [Contributor Agreement](https://www.elastic.co/contributor-agreement/)
 * [Kibana Developer guide](https://www.elastic.co/guide/en/kibana/current/contributing.html)
+* [How to write a good commit message](https://dev.to/chrissiemhrk/git-commit-message-5e21)
 * [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 * [How we use git and github](https://www.elastic.co/guide/en/kibana/current/development-github.html)
 * [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
