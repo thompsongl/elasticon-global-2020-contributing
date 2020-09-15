@@ -15,6 +15,7 @@ ___
 * [Git Cheat Sheet](https://training.github.com/)
 * [GitHub for Beginners](https://resources.github.com/webcasts/GitHub-for-beginners/)
 * [Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github)
+* [All things code](https://www.elastic.co/community/all-things-code)
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 * [Outreachy](https://www.outreachy.org/)
