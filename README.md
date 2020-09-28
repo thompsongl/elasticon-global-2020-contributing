@@ -8,6 +8,7 @@ ___
 * [Elastic License](https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE.txt)
 * [Contributor Agreement](https://www.elastic.co/contributor-agreement/)
 * [Kibana Developer guide](https://www.elastic.co/guide/en/kibana/current/contributing.html)
+* [Contributing to Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md)
 * [How we use git and github](https://www.elastic.co/guide/en/kibana/current/development-github.html)
 * [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
 * [Git Docs](https://git-scm.com/doc)
